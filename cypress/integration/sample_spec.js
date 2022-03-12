@@ -23,7 +23,7 @@ describe('My First Test', function() {
 })
 */
 
-
+/** 
 describe('My First Test', function() {
     it('Finds an element', function() {
         
@@ -32,9 +32,9 @@ describe('My First Test', function() {
         cy.contains('type').click()
     })
 })
+*/
 
-
-
+/** 
 describe('My First Test', function() {
     it('Makes an assertion', function() {
         
@@ -46,7 +46,7 @@ describe('My First Test', function() {
             .should('include', '/commands/actions')
     })
 })
-
+*/
 
 describe('My First Test', function() {
     it('Gets, types and asserts', function() {
