@@ -1,5 +1,5 @@
 //Cypress Learning
-/**
+
 describe('MyFirst Test', function() {
     it('Does not do much', function() {
         //Arrange - setup intial app state
@@ -12,18 +12,18 @@ describe('MyFirst Test', function() {
         expect(true.to.equal(true))
     })
 })
-*/
 
-/** 
+
+
 describe('My First Test', function() {
     it('Visits the Kitchen Sink', function() {
         
         cy.visit('https://example.cypress.io')
     })
 })
-*/
 
-/** 
+
+
 describe('My First Test', function() {
     it('Finds an element', function() {
         
@@ -32,9 +32,9 @@ describe('My First Test', function() {
         cy.contains('type').click()
     })
 })
-*/
 
-/** 
+
+
 describe('My First Test', function() {
     it('Makes an assertion', function() {
         
@@ -46,7 +46,7 @@ describe('My First Test', function() {
             .should('include', '/commands/actions')
     })
 })
-*/
+
 
 describe('My First Test', function() {
     it('Gets, types and asserts', function() {
