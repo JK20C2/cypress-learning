@@ -1,5 +1,5 @@
 //Cypress Learning
-
+/** 
 describe('MyFirst Test', function() {
     it('Does not do much', function() {
         //Arrange - setup intial app state
@@ -12,16 +12,16 @@ describe('MyFirst Test', function() {
         expect(true.to.equal(true))
     })
 })
+*/
 
-
-
+/** 
 describe('My First Test', function() {
     it('Visits the Kitchen Sink', function() {
         
         cy.visit('https://example.cypress.io')
     })
 })
-
+*/
 
 
 describe('My First Test', function() {
