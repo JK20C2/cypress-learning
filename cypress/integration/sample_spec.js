@@ -50,6 +50,7 @@ describe('My First Test', function() {
 
 
 //comments 2
+//comment 3
 
 //Lalala
 //Master comment
