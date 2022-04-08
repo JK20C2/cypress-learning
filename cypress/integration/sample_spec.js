@@ -47,6 +47,7 @@ describe('My First Test', function() {
     })
 })
 
+//Master comment
 
 describe('My First Test', function() {
     it('Gets, types and asserts', function() {
